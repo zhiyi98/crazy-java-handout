@@ -1,0 +1,2 @@
+普通字符串
+Example_15_07_PrintStreamTest@1b6d3586
